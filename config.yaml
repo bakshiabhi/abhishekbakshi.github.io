@@ -1,7 +1,7 @@
-baseURL: https://hossainemruz.github.io
+baseURL: https://abhishekbakshi.github.io
 
 languageCode: en-us
-title: "Emruz Hossain"
+title: "abhishekbakshi"
 theme: "toha"
 
 # Manage languages
@@ -39,7 +39,7 @@ outputs:
 # googleAnalytics: UA-122321624-2
 
 # Enable Disqus forum
-disqusShortname: hossainemruz-github-io
+disqusShortname: github.com/bakshiabhi/abhishekbakshi/github.io
 
 # Enable global emoji support
 enableEmoji: true
@@ -58,7 +58,7 @@ params:
   #   favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hossainemruz/hossainemruz.github.io
+  gitRepo: https://github.com/bakshiabhi/abhishekbakshi.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
