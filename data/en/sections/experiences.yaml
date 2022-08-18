@@ -11,39 +11,73 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: AppCode Ltd.
-    url: https://www.appscode.com
-    location: Dhaka Branch
+    name: Deliveeoo Plc
+    url: https://www.aDeliveroo.co.uk
+    location: London, UK
     # company overview
-    overview: AppsCode Ltd. is a subsidiary company of AppsCode Inc. USA. Its mission is to accelerate the transition to Containers by building a Kubernetes-native Data Platform.
+    overview: Deliveroo is a fast-growing delivery service that provides food delivery and takeaway services to customers.
   positions:
-  - designation: Lead Software Engineer
-    start: Jan 2021
+  - designation: 
+    start: Aug 2021
     responsibilities:
-    - Lead [Stash](https://stash.run/) Project
-    - Lead backup part of [KubeDB](https://kubedb.com/)
-    - Collaborate with front-end team for integration of KubeDB and Stash with [ByteBuilders](https://byte.builders/).
-  - designation: Software Engineer
-    start: Nov 2017
-    end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design, develop and manage disaster recovery tool Stash that backup Kubernetes volumes, databases and cluster's resource definition.
-    - Worked on database operator KubeDB that deploy and manages most popular databases inside Kubernetes cluster in Kubernetes native way.
-    - Added support for Prometheus monitoring in various AppsCode's tools.
-    - Provide support to the users of our various tools.
+    - Leading the creation of Deliveroo’s first development centre in India
+    - Establishing key metrics for success and improvements for offshore teams in
+      India including HR, Recruitment, Engineering and Product
+    - Liaising with stakeholders from all division/departments, assessing offshore
+      requirements & fulfilling those for UK. Dubai and HK markets
+    - Managing end-to-end program delivery for consumer application and bringing
+      synergy with restaurant, riders and grocery verticals
+    - Designed and Maintained Strategy and program plans for multiple programs
+  # - designation: Software Engineer
+  #   start: Nov 2017
+  #   end: Dec 2020
+  #   # give some points about what was your responsibilities at the company.
+  #   responsibilities:
+  #   - Design, develop and manage disaster recovery tool Stash that backup Kubernetes volumes, databases and cluster's resource definition.
+  #   - Worked on database operator KubeDB that deploy and manages most popular databases inside Kubernetes cluster in Kubernetes native way.
+  #   - Added support for Prometheus monitoring in various AppsCode's tools.
+  #   - Provide support to the users of our various tools.
 
 
 - company:
-    name: AppsCode Ltd.
-    url: "https://www.appscode.com"
-    location: Dhaka, Bangladesh
-    overview: AppsCode Ltd. is a subsidiary company of AppsCode Inc. USA. Its mission is to accelerate the transition to Containers by building a Kubernetes-native Data Platform.
+    name: Appriss Retail.
+    url: "https://www.apprissretail.com"
+    location: London, UK
+    overview: Appriss Retail is a leading retailer of quality products and services in the UK.
   positions:
-  - designation: Intern
-    start: March 2016
-    end: May 2016
+  - designation: Programme Manager-Digital at Appriss Retail
+    start: May 2019
+    end: July 2021
     responsibilities:
-    - Design, develop and test a sample library website.
-    - Learn git version control.
-    - Learn backbone.js framework.
+    - Lead digital transition from multiple app versions to 1 evergreen cloud version
+    - Created, maintained, and delivered IT roadmap for successful monthly rollout & features/ business objectives
+    - Leading transition and synergy exercises between US & UK teams for agile ways of working across dev, test & ops
+    -  Restructured existing roles to align to cloud migration and developed a task force to refine & refactor legacy systems
+      and deliver MVP changes following sprint establishment which focuses on customer value and revenue streams
+    -  Replace existing inhouse infrastructure with azure IAAS/PAAS offerings saving cost , working with google analytics and
+      azure BI offerings 
+    - Recruited, Coached & Developed teams across multiple geographical locations of testers, developers, Project managers
+      and business analysts
+
+
+- company:
+    name: Royal Mail Group
+    url: "https://www.royalmail.com"
+    location: London, UK
+    overview: Royal Mail is a global mail and parcel delivery company with operations in over 150 countries.
+  positions:
+  - designation: Digital Programme Manager 
+    start: March 2017
+    end: May  2019
+    responsibilities:
+    - Program management of £10m Digital transformation strategy from legacy to Azure cloud with zero down time and no
+      disruption
+    - Create, maintain, and deliver IT roadmap, Re-aligning and redefining cloud migration requirements into deliverables
+      against business objectives
+    - Leading transition from waterfall to agile ways of working across dev, test & ops. Supervised Agile transformation
+      across multiple projects, setting up transition walkthroughs & new ways of workin
+    -  Restructured existing roles to align to cloud migration and developed a task force to refine & refactor legacy systems
+    - Develop phased rollout plans with suppliers (onshore / offshore) & vendors and actively manage deliveries
+    - Legacy Infrastructure costing RMG 3 million/ quarter was replaced by hybrid cloud model saving more than 2 million/
+     quarter
+    -  As a sign off authority, I proactively challenged supplier Plans and budgeting, reducing programme cost by 15%

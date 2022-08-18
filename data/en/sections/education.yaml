@@ -11,16 +11,16 @@ section:
   # hideTitle: true
 
 degrees:
-- name: B.Sc. in Computer Science & Engineering
+- name: B.E in Information Technology
   icon: fa-graduation-cap
-  timeframe: 2013-2017
+  timeframe: 2000-2004
   institution:
-    name: Chittagong University of Engineering & Technology
+    name: Hindu College of Engineering
     url: "#"
   grade: #(optional)
     scale: CGPA
-    achieved: 3.28
-    outOf: 4
+    achieved: 4
+    outOf: 5
   # takenCourses: #(optional)
   #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
   #   showGrades: true
@@ -37,28 +37,28 @@ degrees:
   #   - name: Artificial Intelligent
   #     achieved: 3.75
   #     outOf: 4
-  publications: #(optional)
-  - title: An IoT based System for Riverine Vessel Monitoring
-    url: "#"
+  # publications: #(optional)
+  # - title: An IoT based System for Riverine Vessel Monitoring
+  #   url: "#"
   extracurricularActivities: #(optional)
-  - Participated in various national and international Programming contests
-  - Worked as instructor of CUET Computer Club
+  - Cricket Captain at School and College 
+  
 - name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
+  icon: fa-school
+  timeframe: 1986-2000
   institution:
-    name: Sristy College of Tangail
+    name: Dewan Badri Nath Viday Mandir
     # url: "#"
   grade: #(optional)
     scale: GPA
     achieved: 5
-    outOf: 5
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: Lowhati M. Azhar Memorial High School
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.38
-    outOf: 5
+    outOf: 4.38
+# - name: Secondary School Certificate
+#   icon: fa-school
+#   timeframe: 2005-2010
+#   institution:
+#     name: Lowhati M. Azhar Memorial High School
+#   grade: #(optional)
+#     scale: GPA
+#     achieved: 4.38
+#     outOf: 5
