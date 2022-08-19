@@ -21,48 +21,47 @@ buttons:
 
 # my projects
 projects:
-- name: Stash
+- name: Cloud transformation
   logo: images/projects/stash.png
-  role: Team Lead
-  timeline: "March 2018 - Present"
-  repo: https://github.com/stashed/stash
+  role: Digital Programme Manager
+  timeline: "Feb,2017- May, 2019"
+  # repo: https://github.com/stashed/stash
   #url: ""
-  summary: A tool to backup Kubernetes volumes, StatefulSet application, databases etc.
-  tags: ["professional", "kubernetes", "backup"]
+  summary: "Programme management of £10m Digital transformation strategy from legacy to Azure cloud with zero down time and no disruptions. I led RMG's Cloud transformation progarm and redcued the cost from 3mil/year to £50K/year. I was able to build in house development teams, reduce suppliers and reduce the time to market considerably."
+  tags: ["professional", "backup"]
 
-- name: KubeDB
+- name: Implemented Devops & SRE
   logo: images/projects/kubedb.png
-  role: Developer
-  timeline: "Jan 2019 - Present"
-  repo: https://github.com/kubedb/cli
+  role: Programme Manager
+  timeline: "May 2019 - Aug, 2021"
+  # repo: https://github.com/kubedb/cli
   #url: ""
-  summary: KubeDB by AppsCode simplifies and automates routine database tasks such as provisioning, patching, backup, recovery, failure detection, and repair for various popular databases on private and public clouds.
-  tags: ["professional", "kubernetes", "database"]
+  summary: "I developed new model to bring multiple products under 1 platform, replaced multiple versions of our app with SaaS offering & established devops & SRE to deliver customer value faster. Restructured existing roles & lead transition and synergy exercises between US & UK teams for agile
+ways of working across dev, test & ops" 
+  tags: ["professional", "database"]
 
-- name: Kubed
+- name: Agile Transformation
   logo: images/projects/kubed.png
-  role: Developer
-  timeline: "Oct 2018 - Dec 2018"
-  repo: https://github.com/appscode/kubed
+  role: Programme Manager
+  timeline: "Feb 2015 - Oct, 2016"
+  # repo: https://github.com/appscode/kubed
   #url: ""
-  summary: A tool to sync Kubernetes ConfigMap, Secret across namespaces and clusters.
+  summary: Designed and maintained Agile framework with supplier and vendors for delivery including apple pay and google pay for Transprot for London. Delivered TfL's Azure Cloud capability for "Oyster pay as you go app" by working closely with 3rd party suppliers and replacing legacy services with hybrid PaaS & IaaS solution, delivering more functionality faster"
   tags: ["professional", "kubernetes", "sync"]
 
-- name: Riverine Vehicle Tracking System with Overload Detection
+- name: Home automation
   role: Owner
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://drive.google.com/open?id=0BwCjE-AXb1mjT1ExczBuMjk1aTQ"
+  timeline: "Jan 2020 - present"
+  # url: "https://drive.google.com/open?id=0BwCjE-AXb1mjT1ExczBuMjk1aTQ"
   summary:
-    This project aims to develop a monitoring and overload detection system for riverine vehicles.
-    Here, we have built an Ardunio based GPS tracking system, an ultrasonic sensor based overload
-    detector. We have also built a mobile based user application as well as an emergency notification
-    system.
-  tags: ["academic","iot"]
+    Home assistant is a smart home automation platform that allows you to control your home from anywhere. It is a free and open source project that anyone can impement and I am using it
+    on Raspberry pi 4 and have managed to integared with Alexa and google assistant.
+  tags: ["hobby","iot",Home Automation"]
 
 - name: Toha
   logo: images/projects/toha.png
   role: Owner
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme"]
+  # repo: https://github.com/abhishekbaksi/toha
+  summary: A Hugo theme for personal portfolio, using repo by Hossain Emruz.
+  tags: ["hobby","hugo","theme",academic]

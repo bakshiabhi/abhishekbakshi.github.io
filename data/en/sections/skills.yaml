@@ -11,39 +11,40 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "images/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+- name: Devops
+  logo: "images/skills/badge1.png"
+  summary: "Capable of implememtating devops & associated best practices, setting up devops teams and environments, and managing the infrastructure."
   url: https://kubernetes.io/
 
-- name: Go Development
+- name: Tools and technologies
   logo: "images/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "I am well versed with new tools and technologies in the market such as docker, kubernetes, Micorsoft office, Google suite, CI/CD, development frameworks, test automation frameworks, sql , python."
   url: "https://golang.org/"
 
-- name: Cloud Computing
+- name: Cloud adaptation
   logo: "images/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Hands on knowlegge with most of the major clouds such as AWS, Azure etc. I have lead many successful cloud adaptation and cloud migrations programs at scale."
 
-- name: Docker
+- name: Agile Transformation
   logo: "images/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "I had led and spearheaded a large agile transformation program at scale. I have led orginiations to adopt agile practices and methodologies and showcase value."
   url: "https://www.docker.com/"
 
-- name: Prometheus
+- name: Testing and QA
   logo: "images/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "I have set up quality assurances process, have led functional testing  & non funcatonal 
+            test phases. I was instrumental in the development of a test automation framework for the many orginisations."
   url: "https://prometheus.io/"
 
-- name: Linux
-  logo: "images/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+# - name: Linux
+#   logo: "images/skills/linux.png"
+#   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
 - name: Git
   logo: "images/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. Mostly, use Github, azure devops. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: "images/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+# - name: C++
+#   logo: "images/skills/c++.png"
+#   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
