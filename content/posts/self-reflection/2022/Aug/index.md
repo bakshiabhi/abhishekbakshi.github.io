@@ -1,11 +1,11 @@
 ---
-title: "July 2022: The first step"
-date: 2022-07-31T10:00:00+06:00
-description: The Continuation of my journey
+title: "Aug 2022: The Continuation"
+date: 2022-08-19T10:00:00+06:00
+description: The starting of my monthly self-reflection.
 menu:
   sidebar:
-    name: July
-    identifier: self-reflection-2022-July
+    name: Aug
+    identifier: self-reflection-2022-Aug
     parent: self-reflection-2022
     weight: 0
 hero: images/first-step.jpg
@@ -25,7 +25,7 @@ I will be reviewing my activities on the following categories:
 - **OSS Contribution:** Any contribution to open-source project. This include my own OSS projects or any third-party projects.
 - **Toy Project:** The best way to learn is to do it yourself. I will be doing simple, small projects with the things I have learned.
 
-### Goal for Aug 2022
+### Goal for Sept 2022
 
 ##### Learning
 

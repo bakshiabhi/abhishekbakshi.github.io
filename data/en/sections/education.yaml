@@ -16,7 +16,7 @@ degrees:
   timeframe: 2000-2004
   institution:
     name: Hindu College of Engineering
-    url: "#"
+    url: "https://hcesonepat.org/hces/"
   grade: #(optional)
     scale: CGPA
     achieved: 4
@@ -48,7 +48,7 @@ degrees:
   timeframe: 1986-2000
   institution:
     name: Dewan Badri Nath Viday Mandir
-    # url: "#"
+    url: "https://www.icbse.com/schools/dewan-badrinath-vidya-mandir-amarvilla-642q59"
   grade: #(optional)
     scale: GPA
     achieved: 5
