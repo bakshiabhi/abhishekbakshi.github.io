@@ -1,4 +1,5 @@
-baseURL: https://abhishekbakshi.github.io
+#baseURL: https://abhishekbakshi.github.io/
+baseURL: https://abhishekbakshi.netlify.app/
 
 languageCode: en-us
 title: "abhishekbakshi"
@@ -74,4 +75,4 @@ params:
   # Configurations for notes
   notes:
     headerBackground: aliceblue
-    enable: false
+    

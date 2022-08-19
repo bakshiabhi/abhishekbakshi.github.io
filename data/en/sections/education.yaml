@@ -51,8 +51,8 @@ degrees:
     url: "https://www.icbse.com/schools/dewan-badrinath-vidya-mandir-amarvilla-642q59"
   grade: #(optional)
     scale: GPA
-    achieved: 5
-    outOf: 4.38
+    achieved: 4.40
+    outOf: 5
 # - name: Secondary School Certificate
 #   icon: fa-school
 #   timeframe: 2005-2010
