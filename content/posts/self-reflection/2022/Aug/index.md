@@ -1,6 +1,6 @@
 ---
 title: "Aug 2022: The Continuation"
-date: 2022-08-19T10:00:00+06:00
+date: "2022-08-19T10:00:00+06:00"
 description: The starting of my monthly self-reflection.
 menu:
   sidebar:
