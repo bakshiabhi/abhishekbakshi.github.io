@@ -8,12 +8,12 @@ section:
   template: sections/about.html
 
 # my designation
-designation: Staff Technical Programme Manager
+designation: Senior Technical Programme Manager
 
 # my company information
 company:
-  name: Deliveroo
-  url: "https://www.deliveroo.co.uk"
+  name: Meta(Facebook)
+  url: "https://www.meta.com/"
 
 # my resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
