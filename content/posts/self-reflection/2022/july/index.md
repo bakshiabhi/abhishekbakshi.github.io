@@ -1,6 +1,6 @@
 ---
 title: "July 2022: The first step"
-date: "2022-07-31T10:00:00+06:00"
+date: 2022-07-31T10:00:00+06:00
 description: The Continuation of my journey
 menu:
   sidebar:
@@ -12,7 +12,7 @@ hero: images/first-step.jpg
 tags: ["Review","Self Reflection","2022"]
 ---
 
-.his is the first step of my new journey. From now, I will be posting an article at the end of every month summarizing my activities throughout the month. This will serve for two purposes. Firstly, it will act as my monthly self reflection. I will be reviewing my activities for past month and set goal for next month. Secondly, it will help me to break the ice and create a habit of regular posting.
+This is the first step of my new journey. From now, I will be posting an article at the end of every month summarizing my activities throughout the month. This will serve for two purposes. Firstly, it will act as my monthly self reflection. I will be reviewing my activities for past month and set goal for next month. Secondly, it will help me to break the ice and create a habit of regular posting.
 
 I will be reviewing my activities on the following categories:
 
