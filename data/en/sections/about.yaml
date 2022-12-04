@@ -8,12 +8,12 @@ section:
   template: sections/about.html
 
 # my designation
-designation: Staff Technical Programme Manager
+designation: Senior Technical Programme Manager
 
 # my company information
 company:
-  name: Deliveroo
-  url: "https://www.deliveroo.co.uk"
+  name: Meta (Facebook)
+  url: "https://www.meta.com/"
 
 # my resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
@@ -62,10 +62,20 @@ badges:
 #   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
 #   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
 
-# - type: certification
-#   name: Artificial Intelligence and Machine Learning
-#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+- type: certification
+  name: Certified AZ-400 Designing and Implementing Microsoft DevOps Solutions
+  url: "https://www.credly.com/org/microsoft-certification/badge/az-400-designing-and-implementing-microsoft-devops-solutions"
+  badge: "https://i.ibb.co/mSw2PFc/exam-az400-680x680.png"
+
+- type: certification
+  name: Azure Data Fundamentals
+  url: "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals"
+  badge: "https://i.ibb.co/PFndMqs/azure-data-fundamentals-680x680.png"
+
+- type: certification
+  name: Azure Fundamentals
+  url: "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals"
+  badge: "https://i.ibb.co/0q2YKj8/azure-fundamentals-680x680.png"
 
 - type: soft-skill-indicator
   name: Leadership & Coaching
@@ -97,10 +107,7 @@ badges:
   percentage: 75
   color: pink
 
-# - type: certification
-#   name: Certified AZ-400 Designing and Implementing Microsoft DevOps Solutions
-#   url: "https://docs.microsoft.com/en-us/certifications/exams/az-400"
-#   badge: "https://www.credly.com/org/semos-education/badge/az-400-designing-and-implementing-microsoft-devops-solutions.png"
+
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
