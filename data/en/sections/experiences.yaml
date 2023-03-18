@@ -11,24 +11,45 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Meta (Facebook)
+    url: https://www.meta.com
+    location: London, UK
+    # company overview
+    overview: Meta is one of the powerhoues of social media platforms and has been a pioneer in this industry with products such as Facebook, Instgram & whatsapp 
+  positions:
+  - designation: senior Technical Programme Manager
+    start: Dec 2022
+    end: current
+    responsibilities:
+    - Key contributor in setting up year-end & the long goals & plans for the team
+    - Establishing key metrics for success and improvements for the A&G pillar
+    - As a QB (quarterback) created a strategy to align operating model, ways of 
+      working, processes & guidance for the new A&G pillar
+    - Leading an effort to minimise revenue fluctuation by establishing better 
+      quality & checks for gatekeeper, sev management & horizontal sev attribution.
+    - As a QB, leading team to identify system & component health using real time 
+      matrix & utilising that for incremental revenue (irev) opportunities in A&G 
+    - Key contributor to Ads predictive robustness forum, implementing quality 
+      control & adaptation of CDP machine learning framework across A&G
+- company: 
     name: Deliveroo Plc
     url: https://www.deliveroo.co.uk
     location: London, UK
     # company overview
-    overview: Deliveroo is a fast-growing delivery service that provides food delivery and takeaway services to customers.
+    overview: Deliveroo is a fast-growing delivery service that provides food delivery and takeaway services to customers
   positions:
   - designation: Staff Technical Programme Manager
     start: Aug 2021
     end: Dec 2022
     responsibilities:
-    - Leading the creation of Deliveroo’s first development centre in India
-    - Establishing key metrics for success and improvements for offshore teams in
-      India including HR, Recruitment, Engineering and Product
-    - Liaising with stakeholders from all division/departments, assessing offshore
-      requirements & fulfilling those for UK Dubai and HK markets
+    - Leading initiative for building B2B capability & road map for “DfW”
+    - Responsible for cyber insurance renewal for assets with minimum costs
+    - Lead Strategy & execution of “Percentage off “ feature on Deliveroo app
+    - Designed and Maintained Strategy and program plans for multiple programs
     - Managing end-to-end program delivery for consumer application and bringing
       synergy with restaurant, riders and grocery verticals
-    - Designed and Maintained Strategy and program plans for multiple programs
+    - Leading a team of PMs in devops and agile transformation
+    - Leading the creation of Deliveroo’s first development centre in India 
   # - designation: Software Engineer
   #   start: Nov 2017
   #   end: Dec 2020
