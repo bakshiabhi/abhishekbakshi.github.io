@@ -6,7 +6,7 @@ greeting: "Hi, I am Abhishek Bakshi"
 image: "images/author/AbhishekB.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "bakshi.abhi@gmail.com"
+  email: "bakshiabhi@gmail.com"
   phone: "0044-7540739044"
 
 # some summary about what you do
