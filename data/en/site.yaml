@@ -6,6 +6,6 @@ description: Portfolio and personal blog of Abhishek Bakshi.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
-customMenus:
-- name: Notes
-  url: /notes
+#customMenus:
+#- name: Notes
+#  url: /notes
