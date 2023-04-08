@@ -6,14 +6,14 @@ greeting: "Hi, I am Abhishek Bakshi"
 image: "images/author/AbhishekB.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "bakshi.abhi@gmail.com"
+  email: "bakshiabhi@gmail.com"
   phone: "0044-7540739044"
 
 # some summary about what you do
 summary:
-  - I am a Senior Technical Programme Manager at Meta(Facebook)
-  - I enjoy Devops and Cloud Computing
-  - I love Testing and Quality Assurance
+  - I am a Senior Technical Programme Manager at Meta (Facebook)
+  - I enjoy Devops & Cloud Computing
+  - I love Testing & Quality Assurance
   - I like to simplify complex progarms & deliver customer value
   - I have vast expericence in buidiling high performant teams
   
