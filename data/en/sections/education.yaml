@@ -19,7 +19,7 @@ degrees:
     url: "https://hcesonepat.org/hces/"
   grade: #(optional)
     scale: CGPA
-    achieved: 4.5
+    achieved: 4.35
     outOf: 5
   # takenCourses: #(optional)
   #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
