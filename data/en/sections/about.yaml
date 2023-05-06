@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # my designation
-designation: Senior Technical Programme Manager
+designation: Engineering Director
 
 # my company information
 company:
@@ -20,7 +20,7 @@ resume: "files/resume.pdf"
 
 # a summary about me
 summary:  |
-      A Dynamic & Proficient Programme & Project Manager with over 18 Years’ experience across various sectors, Telecom, Retail, Insurance, Public sector, Logistics & Banking.\
+      A Dynamic & Proficient Engineering & Program Leader with over 18 Years’ experience across various sectors, Telecom, Retail, Insurance, Public sector, Logistics & Banking.\
       I am performance driven & entrepreneurial & take pride in driving initiatives that exceed targets.\
       I excel at cross functional collaboration to achieve on-time, on-budget, on-spec results.
 # my social links
@@ -98,7 +98,7 @@ badges:
   color: purple
 
 - type: soft-skill-indicator
-  name: Test & Quality Management  
+  name: Engineering & Quality Management  
   percentage: 75
   color: green
 
