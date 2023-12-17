@@ -19,8 +19,8 @@ degrees:
     url: "https://hcesonepat.org/hces/"
   grade: #(optional)
     scale: CGPA
-    achieved: 4
-    outOf: 5
+    achieved: 4.33
+    outOf: 5.0
   # takenCourses: #(optional)
   #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
   #   showGrades: true
@@ -51,7 +51,7 @@ degrees:
     url: "https://www.icbse.com/schools/dewan-badrinath-vidya-mandir-amarvilla-642q59"
   grade: #(optional)
     scale: GPA
-    achieved: 4.55
+    achieved: 4.60
     outOf: 5
 # - name: Secondary School Certificate
 #   icon: fa-school

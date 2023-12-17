@@ -17,7 +17,7 @@ experiences:
     # company overview
     overview: Meta is one of the powerhoues of social media platforms and has been a pioneer in this industry with products such as Facebook, Instgram & whatsapp 
   positions:
-  - designation: Senior Technical Program Manager
+  - designation: Senior Technical Programme Manager
     start: Dec 2022
     end: current
     responsibilities:
@@ -38,18 +38,18 @@ experiences:
     # company overview
     overview: Deliveroo is a fast-growing delivery service that provides food delivery and takeaway services to customers
   positions:
-  - designation: Staff Technical Programme Manager
+  - designation: Staff TPM
     start: Aug 2021
     end: Dec 2022
     responsibilities:
     - Leading initiative for building B2B capability & road map for “DfW”
     - Responsible for cyber insurance renewal for assets with minimum costs
     - Lead Strategy & execution of “Percentage off “ feature on Deliveroo app
-    - Designed and Maintained Strategy and program plans for multiple programs
+    - Designed & Maintained Strategy and program plans for multiple programs
     - Managing end-to-end program delivery for consumer application and bringing
       synergy with restaurant, riders and grocery verticals
     - Leading a team of PMs in devops and agile transformation
-    - Leading the creation of Deliveroo’s first development centre in India 
+    - Leading the creation of Deliveroo’s first development centre in India of over 100 engs
   # - designation: Software Engineer
   #   start: Nov 2017
   #   end: Dec 2020
@@ -67,7 +67,7 @@ experiences:
     location: London, UK
     overview: Appriss Retail is a leading retailer of quality products and services in the UK.
   positions:
-  - designation: Programme Manager-Digital at Appriss Retail
+  - designation: Senior Programme Manager-Digital at Appriss Retail
     start: May 2019
     end: July 2021
     responsibilities:
@@ -88,7 +88,7 @@ experiences:
     location: London, UK
     overview: Royal Mail is a global mail and parcel delivery company with operations in over 150 countries.
   positions:
-  - designation: Digital Programme Manager 
+  - designation: Digital Programme Manager
     start: March 2017
     end: May  2019
     responsibilities:
