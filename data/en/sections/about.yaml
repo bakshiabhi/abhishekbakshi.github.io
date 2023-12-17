@@ -20,7 +20,7 @@ resume: "files/resume.pdf"
 
 # a summary about me
 summary:  |
-      A Dynamic & Proficient Programme & Project Manager with over 15 Years’ experience across various sectors, Telecom, Retail, Insurance, Public sector, Logistics & Banking.\
+      A Dynamic & Proficient Programme & Project Manager with over 18 Years’ experience across various sectors, Telecom, Retail, Insurance, Public sector, Logistics & Banking.\
       I am performance driven & entrepreneurial & take pride in driving initiatives that exceed targets.\
       I excel at cross functional collaboration to achieve on-time, on-budget, on-spec results.
 # my social links
@@ -64,18 +64,33 @@ badges:
 
 - type: certification
   name: Certified AZ-400 Designing and Implementing Microsoft DevOps Solutions
-  url: "https://www.credly.com/org/microsoft-certification/badge/az-400-designing-and-implementing-microsoft-devops-solutions"
+  url: "https://www.credly.com/org/opsgility/badge/microsoft-azure-devops-solutions-course-az-400-completion-badge"
   badge: "https://i.ibb.co/mSw2PFc/exam-az400-680x680.png"
 
 - type: certification
-  name: Azure Data Fundamentals
+  name: Certified DS-900 - Microsoft Azure Data Fundamentals 
   url: "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals"
   badge: "https://i.ibb.co/PFndMqs/azure-data-fundamentals-680x680.png"
 
 - type: certification
-  name: Azure Fundamentals
+  name: Azure AZ-900 - Microsoft Azure Fundamentals
   url: "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals"
   badge: "https://i.ibb.co/0q2YKj8/azure-fundamentals-680x680.png"
+
+- type: certification
+  name: Certified AI-900 - Microsoft Azure AI Fundamentals
+  url: "https://www.credly.com/org/o-reilly-media/badge/azure-ai-fundamentals.2"
+  badge: "https://i.ibb.co/KVKYRzh/MS-AI.png"
+
+- type: certification
+  name: Certified SC-900 - Microsoft Security, Compliance, and Identity
+  url: "https://www.credly.com/org/new-horizons-computer-learning-center/badge/sc-900t00-microsoft-security-compliance-and-identity"
+  badge: "https://i.ibb.co/PtvvDVX/MS-security.png"
+
+- type: certification
+  name: Certified PL-900 - Microsoft Power Platform Fundamentals
+  url: "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-power-platform-fundamentals"
+  badge: "https://i.ibb.co/92hMhsK/MS-Power-platform.png"
 
 - type: soft-skill-indicator
   name: Leadership & Coaching
@@ -99,12 +114,12 @@ badges:
 
 - type: soft-skill-indicator
   name: Test & Quality Management  
-  percentage: 75
+  percentage: 85
   color: green
 
 - type: soft-skill-indicator
   name: Budgeting, Monitoring & Control
-  percentage: 75
+  percentage: 80
   color: pink
 
 
