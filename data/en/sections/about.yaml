@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # my designation
-designation: Senior Technical Programme Manager 
+designation: Staff Technical Programme Manager 
 
 # my company information
 company:
@@ -68,7 +68,7 @@ badges:
   badge: "https://i.ibb.co/mSw2PFc/exam-az400-680x680.png"
 
 - type: certification
-  name: Certified DS-900 - Microsoft Azure Data Fundamentals 
+  name: Certified DP-900 - Microsoft Azure Data Fundamentals 
   url: "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals"
   badge: "https://i.ibb.co/PFndMqs/azure-data-fundamentals-680x680.png"
 
