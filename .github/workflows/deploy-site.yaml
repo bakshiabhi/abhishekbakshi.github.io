@@ -24,12 +24,12 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL https://abhishekbakshi.github.io/
+        run: hugo --minify --baseURL https://bakshiabhi.github.io/abhishekbakshi.github.io/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: master
+          publish_branch: gh-pages
           publish_dir: ./public
 
