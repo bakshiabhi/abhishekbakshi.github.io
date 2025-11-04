@@ -1,0 +1,13 @@
+# /netlify.toml
+
+# Global build settings
+[build]
+  # Directory to publish your build results.
+  publish = "public"
+  # The full build command. This ensures all dependencies are handled.
+  command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --minify"
+
+# Environment variables for the build
+[build.environment]
+  HUGO_VERSION = "0.111.3" # Pinning Hugo version for consistency
+  NODE_VERSION = "18"       # Setting Node.js to version 18

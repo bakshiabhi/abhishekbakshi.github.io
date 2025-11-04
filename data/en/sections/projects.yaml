@@ -56,7 +56,7 @@ ways of working across dev, test & ops"
   summary:
     Home assistant is a smart home automation platform that allows you to control your home from anywhere. It is a free and open source project that anyone can impement and I am using it
     on Raspberry pi 4 and have managed to integared with Alexa and google assistant.
-  tags: ["hobby","iot",Home Automation"]
+  tags: ["hobby","iot","Home Automation"]
 
 - name: Toha
   logo: images/projects/toha.png
@@ -64,4 +64,4 @@ ways of working across dev, test & ops"
   timeline: "Jun 2019 - Present"
   # repo: https://github.com/abhishekbaksi/toha
   summary: A Hugo theme for personal portfolio, using repo by Hossain Emruz.
-  tags: ["hobby","hugo","theme",academic]
+  tags: ["hobby","hugo","theme","academic"]
