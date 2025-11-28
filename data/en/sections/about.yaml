@@ -18,6 +18,9 @@ company:
 # my resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
+# profile picture
+image: "images/site/picture.jpg"
+
 # a summary about me
 summary:  |
       A Dynamic & Proficient Programme & Project Manager with over 18 Years’ experience across various sectors, Telecom, Retail, Insurance, Public sector, Logistics & Banking.\
