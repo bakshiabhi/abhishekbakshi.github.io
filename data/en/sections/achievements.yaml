@@ -2,7 +2,7 @@
 section:
   name: Achievements
   id: achievements
-  enable: false
+  enable: true
   weight: 7
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -10,27 +10,13 @@ section:
 
 # my achievements
 achievements:
-- title: UAP IUPC 2017
+- title: 💰Unlocked $11M YoY revenue growth with strategic platform unification at Appriss
   image: images/achievements/1.jpg
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
-- title: UAP IUPC 2017
+  summary: 🛠 Boosted Service excellence by 13% & reducing rev loss & customer friction at Meta.
+- title: ☁️ Orchestrated zero-downtime £10M cloud migration for Royal Mail Group
   image: images/achievements/2.jpg
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
-- title: UAP IUPC 2017
+  summary: 📈 Turbocharged Finos practices & reduced cloud spend by 28% & improvedutilisation by 34% through cost controls, charge back, & forecasting frameworks
+- title: 🚀 Spearheaded Dojo’s Payment acquiring platform initiatives improving Card turnover by 34% YoY & launched Dojo’s acquiring services in EU-FRITES
   image: images/achievements/3.jpg
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
-- title: UAP IUPC 2017
-  image: images/achievements/4.jpg
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
-- title: UAP IUPC 2017
-  image: images/achievements/5.jpg
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
-- title: UAP IUPC 2017
-  image: images/achievements/6.jpg
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
-- title: UAP IUPC 2017
-  image: images/achievements/7.jpg
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
-- title: UAP IUPC 2017
-  image: images/achievements/8.jpg
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+  summary:  Slashed customer friction by 50%, skyrocketing CSI to 78%
+
