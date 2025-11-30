@@ -12,8 +12,10 @@ designation: Staff Technical Programme Manager
 
 # my company information
 company:
-  name: Meta (Facebook)
-  url: "https://www.meta.com/"
+  name: Dojo (PaymentSense)
+  url: "https://dojo.tech/"
+  location: London 
+
 
 # my resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
@@ -23,7 +25,7 @@ image: "images/site/picture.jpg"
 
 # a summary about me
 summary:  |
-      A Dynamic & Proficient Programme & Project Manager with over 18 Years’ experience across various sectors, Telecom, Retail, Insurance, Public sector, Logistics & Banking.\
+      A Dynamic & Proficient Programme & Project Manager with over 20 Years’ experience across various sectors, Telecom, Retail, Insurance, Public sector, Logistics & Banking.\
       I am performance driven & entrepreneurial & take pride in driving initiatives that exceed targets.\
       I excel at cross functional collaboration to achieve on-time, on-budget, on-spec results.
 # my social links
