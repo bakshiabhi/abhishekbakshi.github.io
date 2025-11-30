@@ -11,15 +11,31 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Dojo
+    url: https://dojo.tech/
+    location: London, UK
+    overview: Dojo is a payment acquiring company processing 7% of UK payment traffic annually and has expanded to EU
+  positions:
+  - designation: Sr. Technical Delivery Manager
+    start: Dec 2023
+    end: current
+    responsibilities:
+    - Turbocharged 5+ enterprise initiatives, boosting delivery speed by 20%
+    - Engineered 33% improvement in refund & 23% reduction in online frauds
+    - Architected Finops strategy through unit economics & chargeback, provided actionable insights to Engineering, Finance, Product and other business teams
+    - Lead Dojo to become only of the early adaptors of Finops, with resource policies, tagging, slots & reserves capacity planning & infrastructure controls
+    - Spearheading international expansion into Ireland, Spain, Italy, and France with new features such as dynamic currency conversations, Fx, in app Loans
+
+- company:
     name: Meta (Facebook)
     url: https://www.meta.com
     location: London, UK
     # company overview
-    overview: Meta is one of the powerhoues of social media platforms and has been a pioneer in this industry with products such as Facebook, Instgram & whatsapp 
+    overview: Meta is one of the powerhoues of social media platforms and has been a pioneer in this industry with products such as Facebook, Instgram & whatsapp
   positions:
   - designation: Senior Technical Programme Manager
     start: Dec 2022
-    end: current
+    end: Dec 2023
     responsibilities:
     - Key contributor in setting up year-end OKRs & the long goals & plans for the team
     - Establishing key metrics for success and improvements for the A&G pillar
