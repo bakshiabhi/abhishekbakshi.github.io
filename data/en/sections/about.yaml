@@ -8,12 +8,12 @@ section:
   template: sections/about.html
 
 # my designation
-designation: Staff Technical Programme Manager 
+designation: Eng Program Manager 
 
 # my company information
 company:
-  name: Dojo (PaymentSense)
-  url: "https://dojo.tech/"
+  name: "Apple (WPC : TEKS)"
+  url: "https://www.apple.com/"
   location: London 
 
 
@@ -134,7 +134,6 @@ badges:
 #   name: Example 1
 #   percentage: 75
 #   color: "#00adb5"
-
 
 
 
