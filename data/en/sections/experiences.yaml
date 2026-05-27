@@ -47,6 +47,20 @@ experiences:
       matrix & utilising that for incremental revenue (irev) opportunities in A&G 
     - Key contributor to Ads predictive robustness forum, implementing quality 
       control & adaptation of CDP machine learning framework across A&G
+- company:
+    name: "Apple (WPC : TEKS)"
+    url: https://www.apple.com
+    location: London, UK
+    overview: Leading AI adoption and efficiency drives across Apple, delivering programs in Wallet, Payments, e-commerce, Transit, Apple Wallet, payments, and AI.
+  positions:
+  - designation: Eng Program Manager - AI
+    start: May 2025
+    end: current
+    responsibilities:
+    - Delivered AI tooling and Siri integration for the WPC vertical leveraging LangSmith and LangChain, increasing internal adoption by 18% and efficiency by 33%
+    - Delivered the Manchester Transit program on Apple Wallet and Under 16 Our Pass
+    - Spearheaded Apple Wallet and watchOS 26 updates for all transit projects, driving community adoption and increasing ecosystem engagement by 4% YoY
+    - Led compliance without compromise with IQ, OQ, PQ, GMP, SOC2, and GDPR
 - company: 
     name: Deliveroo Plc
     url: https://www.deliveroo.co.uk
